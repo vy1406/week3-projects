@@ -35,7 +35,6 @@ var menuData = {
 //  TIPS : 
 // ------------------------------
 
-
 // how to handle plain array of strings:
 /*
     <ul class="people_list">
